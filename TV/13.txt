@@ -2,12 +2,12 @@
 {
   "storeHouse": [{
     "sourceName": "绿茶仓库",
-    "sourceUrl": "clan://localhost/TVBox./绿茶仓库（网络）.txt"
+    "sourceUrl": "https://github.com/ki1300/TVBOX/blob/main/TV/998.txt"
   }, {
     "sourceName": "自制仓库",
-    "sourceUrl": "clan://localhost/TVBox./自制仓库.txt"
+    "sourceUrl": "https://github.com/ki1300/TVBOX/blob/main/TV/KK.txt"
   }, {
     "sourceName": "飞机仓库",
-    "sourceUrl": "clan://localhost/TVBox./飞机仓库（网络）.txt"
+    "sourceUrl": "https://github.com/ki1300/TVBOX/blob/main/TV/R18.txt"
   }]
 }
