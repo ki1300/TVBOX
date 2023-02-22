@@ -18,11 +18,11 @@
             "name": "✨福利接口2✨"
         },
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/bc.json",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/bc.json",
             "name": "🔥七七🔥"
         },
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/18.txt",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/18.txt",
             "name": "✨云星日记✨"
         }
     ]
