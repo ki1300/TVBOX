@@ -1,0 +1,29 @@
+
+{
+    "urls": [
+        {
+            "url": "clan://localhost/TVBox./线路/小苹果.txt",
+            "name": "✨小苹果✨"
+        },
+        {
+            "url": "clan://localhost/TVBox./线路/四大网盘.txt",
+            "name": "✨四大网盘✨"
+        },
+        {
+            "url": "clan://localhost/TVBox./线路/福利接口.txt",
+            "name": "✨福利接口✨"
+        },
+        {
+            "url": "clan://localhost/TVBox./线路/2.json",
+            "name": "✨福利接口2✨"
+        },
+        {
+            "url": "clan://localhost/TVBox./线路/bc.json",
+            "name": "🔥七七🔥"
+        },
+        {
+            "url": "clan://localhost/TVBox./线路/云星日记18.txt",
+            "name": "✨云星日记✨"
+        }
+    ]
+}
