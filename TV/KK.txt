@@ -2,19 +2,19 @@
 {
     "urls": [
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/AP.txt",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/AP.txt",
             "name": "✨小苹果✨"
         },
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/4D.txt",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/4D.txt",
             "name": "✨四大网盘✨"
         },
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/FL.txt",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/FL.txt",
             "name": "✨福利接口✨"
         },
         {
-            "url": "https://github.com/ki1300/TVBOX/blob/main/TV/1/1.json",
+            "url": "https://raw.githubusercontent.com/ki1300/TVBOX/blob/main/TV/1/1.json",
             "name": "✨福利接口2✨"
         },
         {
