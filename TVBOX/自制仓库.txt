@@ -2,27 +2,27 @@
 {
     "urls": [
         {
-            "url": "clan://localhost/TVBox./线路/小苹果.txt",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/%E5%B0%8F%E8%8B%B9%E6%9E%9C.txt",
             "name": "✨小苹果✨"
         },
         {
-            "url": "clan://localhost/TVBox./线路/四大网盘.txt",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/%E5%9B%9B%E5%A4%A7%E7%BD%91%E7%9B%98.txt",
             "name": "✨四大网盘✨"
         },
         {
-            "url": "clan://localhost/TVBox./线路/福利接口.txt",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
             "name": "✨福利接口✨"
         },
         {
-            "url": "clan://localhost/TVBox./线路/2.json",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/2.json",
             "name": "✨福利接口2✨"
         },
         {
-            "url": "clan://localhost/TVBox./线路/bc.json",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/bc.json",
             "name": "🔥七七🔥"
         },
         {
-            "url": "clan://localhost/TVBox./线路/云星日记18.txt",
+            "url": "https://github.com/ki1300/TVBOX/blob/main/TVBOX/%E7%BA%BF%E8%B7%AF/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B018.txt",
             "name": "✨云星日记✨"
         }
     ]
